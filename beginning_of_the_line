@@ -1,2 +1,2 @@
-o "0" > /root/vi/beginning_of_the_line
+echo "0" > /root/vi/beginning_of_the_line
 
